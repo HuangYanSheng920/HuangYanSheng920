@@ -2,7 +2,8 @@
 ***
 ## Identity
 **Student**  
-New programing enthusiast
+New programing enthusiast  
+English,Spanish learner
 ## Other Interests
 Music  
 Movie  
