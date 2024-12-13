@@ -2,13 +2,13 @@
 ***
 ## Identity
 -**Student**  
--New programing enthusiast  
--English,Spanish learner
+- New programing enthusiast  
+- English,Spanish learner
 ## Other Interests
--Music  
--Movie  
--Sociology  
--Theology  
+- Music  
+- Movie  
+- Sociology  
+- Theology  
 
 
 
