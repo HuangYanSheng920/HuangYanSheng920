@@ -4,10 +4,10 @@
 **Student**
 New programing enthusiast
 ## Other Interests
-Music
-Movie
-Sociology
-Theology
+Music  
+Movie  
+Sociology  
+Theology  
 
 
 
