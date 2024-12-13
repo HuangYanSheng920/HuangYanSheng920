@@ -1,7 +1,7 @@
 # Hi👋 I am HuangYanSheng
 ***
 ## Identity
--**Student**  
+- **Student**  
 - New programing enthusiast  
 - English,Spanish learner
 ## Other Interests
