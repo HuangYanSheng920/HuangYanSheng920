@@ -8,11 +8,11 @@
 - Music  
 - Movie  
 - Sociology  
-- Theology  
-##Language
+- Theology
+## Luangage
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Markdown-lightblue?style=flat-square&logo=Markdown&logoColor=black)  
-##Evironment
+## Evironment
 ![Static Badge](https://img.shields.io/badge/Windows-purple?style=flat-square&logo=Windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-orchid?style=flat-square&logo=GitHub&logoColor=white)
 
