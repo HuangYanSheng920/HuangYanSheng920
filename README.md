@@ -1,14 +1,14 @@
 # Hi👋 
 ***
 ## Identity
-- **Student**  
-- New programing enthusiast  
-- English,Spanish learner
+🎓 **Student**  
+🖥️ New programing enthusiast  
+📚 English,Spanish learner
 ## Other Interests
-- Music  
-- Movie  
-- Sociology  
-- Theology
+🎵 Music  
+🎬 Movie  
+📗 Sociology  
+✝️ Theology
 ## Luangage
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Markdown-lightblue?style=flat-square&logo=Markdown&logoColor=black)  
